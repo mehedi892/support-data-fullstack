@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c837428b.css",
+    "main.js": "/static/js/main.0ddcc3c3.js",
+    "static/js/787.b8bc30a1.chunk.js": "/static/js/787.b8bc30a1.chunk.js",
+    "static/media/logoIb.png": "/static/media/logoIb.a58e50d5c624a4e37f6b.png",
+    "static/media/logoDr.png": "/static/media/logoDr.ca255dfd93378b77f36d.png",
+    "static/media/update_icon.svg": "/static/media/update_icon.8f496e30515ccf603cc28219557d588d.svg",
+    "static/media/delete_icon.svg": "/static/media/delete_icon.d68a83c554e93c1d9a3f2dc3cbf6129b.svg",
+    "static/media/count_icon.svg": "/static/media/count_icon.c3e67f786b976a1afdb99413654b003a.svg",
+    "index.html": "/index.html",
+    "main.c837428b.css.map": "/static/css/main.c837428b.css.map",
+    "main.0ddcc3c3.js.map": "/static/js/main.0ddcc3c3.js.map",
+    "787.b8bc30a1.chunk.js.map": "/static/js/787.b8bc30a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c837428b.css",
+    "static/js/main.0ddcc3c3.js"
+  ]
+}

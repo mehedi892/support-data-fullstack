@@ -1,0 +1,70 @@
+a {
+  text-decoration: none;
+}
+.topbar {
+  width: 100%;
+  height: 70px;
+  background-color: #ff584136;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 4rem;
+  max-width: 100%;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.imageDivTopbar img {
+  max-width: 80px;
+  max-height: 80px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 4px solid greenyellow;
+}
+.imageDivTopbar {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.topbar > h4 {
+  font-family: "Rubik Distressed", cursive;
+  font-size: 2rem;
+  font-weight: 700;
+  color: blueviolet;
+}
+
+.loginLogoutText {
+  color: #000;
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: 1.6px;
+}
+
+.onlineUserMainDiv {
+  display: flex;
+  align-items: center;
+}
+.onlineUserMainDiv > h3 {
+  margin-right: 5px;
+}
+.icon-container {
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+
+.icon-container img {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.status-circle {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #79c91d;
+  border: 2px solid white;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}

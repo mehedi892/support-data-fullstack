@@ -1,0 +1,31 @@
+.login-container {
+  width: 50%;
+  margin: 70px auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  border-radius: 10px;
+  height: min-content;
+  padding: 20px;
+}
+
+.login-container > h4 {
+  padding: 15px 0;
+  font-size: 30px;
+  font-size: 600;
+  color: burlywood;
+}
+.emailPass {
+  gap: 5px;
+}
+.loginBtnDiv {
+  text-align: center;
+}
+.loginBtn {
+  margin: 20px 0;
+}
+.errorMsg {
+  color: red;
+  margin: 10px 0;
+  text-align: center;
+}
